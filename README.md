@@ -6,7 +6,7 @@
 
 ## About
 
-Founder & CEO of **[Hack In The Box (HITB)](https://conference.hitb.org)** — the premier deep-knowledge security conference series running since 2003 and today VP of Global Strategy and Growth, at Verichains. I work at the intersection of **business strategy, AI, web3, and security**. When I'm not organizing conferences or working on Verichains stuff, I'm vibe coding tools or dabbling with modular (see eurorack) techno music production.
+Founder & CEO of **[Hack In The Box (HITB)](https://conference.hitb.org)** — the premier deep-knowledge security conference series running since 2003 and today VP of Global Strategy and Growth, at Verichains. I work at the intersection of **business strategy, AI, web3, and security**. When I'm not organizing conferences or working on Verichains stuff, I'm vibe coding tools or dabbling with modular (see **[eurorack](https://en.wikipedia.org/wiki/Eurorack)**) techno music production.
 
 ---
 
