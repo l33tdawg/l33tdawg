@@ -25,8 +25,8 @@ When I'm not organizing conferences, I'm building tools at the intersection of *
 
 ## HITB / OOTB Conference Series
 
-https://conference.hitb.org/ 
-https://ootb.net/ 
+- https://conference.hitb.org/ 
+- https://ootb.net/ 
 
 ---
 
