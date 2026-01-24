@@ -23,14 +23,10 @@ When I'm not organizing conferences, I'm building tools at the intersection of *
 
 ---
 
-## HITB Conference Series
+## HITB / OOTB Conference Series
 
-| Event | Location | Schedule |
-|-------|----------|----------|
-| HITBSecConf | Amsterdam, Netherlands | Annual (May) |
-| HITBSecConf | Bangkok, Thailand | Annual (August) |
-| OOTB | Jakarta, Indonesia | April 2026 |
-| HITB+CyberWeek | Abu Dhabi, UAE | Annual |
+https://conference.hitb.org/ 
+https://ootb.net/ 
 
 ---
 
