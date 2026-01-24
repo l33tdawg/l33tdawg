@@ -1,14 +1,12 @@
 # L33tdawg
 
 ### Founder & CEO, Hack In The Box (HITB)
-
+### VP, Global Strategy & Growth, Verichains (https://verichains.io) 
 ---
 
 ## About
 
-Founder & CEO of **[Hack In The Box (HITB)](https://conference.hitb.org)** — the premier deep-knowledge security conference series running since 2003. What started as a small gathering of Malaysian security specialists has grown into a global platform with annual events in **Amsterdam**, **Bangkok**, **Jakarta**, and beyond.
-
-When I'm not organizing conferences, I'm building tools at the intersection of **AI** and **offensive security**.
+Founder & CEO of **[Hack In The Box (HITB)](https://conference.hitb.org)** — the premier deep-knowledge security conference series running since 2003 and today VP of Global Strategy and Growth, at Verichains. I work at the intersection of **business strategy, AI, web3, and security**. When I'm not organizing conferences or working on Verichains stuff, I'm building tools at the intersection of **AI** and **offensive security** or dabbling with music production.
 
 ---
 
