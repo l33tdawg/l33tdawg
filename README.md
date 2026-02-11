@@ -12,12 +12,12 @@ Founder & CEO of **[Hack In The Box (HITB)](https://conference.hitb.org)** — t
 
 ## Projects
 
-- **[FreEstream](https://github.com/l33tdawg/freestream)** - Free, open-source multi-streaming desktop app — fan out a single RTMP stream to Twitch, YouTube, Facebook, TikTok, Instagram and more
 - **[Aether](https://github.com/l33tdawg/aether)** - AI-powered smart contract security analysis and PoC generation framework
-- **[PhantomRecon](https://github.com/l33tdawg/phantomrecon)** - Agent-driven red team automation tool powered by Google Gemini AI
 - **[Strapi MCP](https://github.com/l33tdawg/strapi-mcp)** - Model Context Protocol server for Strapi CMS
 - **[CFP Directory](https://github.com/l33tdawg/cfp-directory-self-hosted)** - Self-hosted Call for Papers management platform
 - **[SilentGem](https://github.com/l33tdawg/silentgem)** - Transparent Telegram translator using Ollama or Gemini AI
+- **[PhantomRecon](https://github.com/l33tdawg/phantomrecon)** - Agent-driven red team automation tool powered by Google Gemini AI
+- **[FreEstream](https://github.com/l33tdawg/freestream)** - Open-source multi-streaming desktop app with RTMP fan-out
 - **[Caplator](https://github.com/l33tdawg/caplator)** - Whisper-based live caption and translation tool
 
 ---
