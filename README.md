@@ -5,7 +5,7 @@
 
 ## About
 
-Creator of **[LevelUp CTF](https://levelupctf.com)** — a self-evolving, fully agentic AI Capture The Flag platform — and author of **[(S)AGE](https://github.com/l33tdawg/sage)** (Sovereign Agent Governed Experience), a new infrastructure layer for AI agents. Founder & CEO of **[Hack In The Box (HITB)](https://conference.hitb.org)** — the premier deep-knowledge security conference series running since 2003. When I'm not building stuff, I'm vibe coding tools or dabbling with modular (see **[eurorack](https://en.wikipedia.org/wiki/Eurorack)**) techno music production.
+Creator of **[LevelUp CTF](https://levelupctf.com)** — a self-evolving, fully agentic AI Capture The Flag platform — and author of **[(S)AGE](https://github.com/l33tdawg/sage)** (Sovereign Agent Governed Experience), a new infrastructure layer for AI agents. Founder & CEO of **[Hack In The Box (HITB)](https://conference.hitb.org)** — the premier deep-knowledge security conference series running since 2003. When I'm not building stuff, I'm thinking up solutions to problems nobody asked me to solve or practicing live modular techno with **[eurorack](https://en.wikipedia.org/wiki/Eurorack)**.
 
 ---
 
