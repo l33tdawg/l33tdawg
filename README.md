@@ -26,6 +26,7 @@ The problem: every AI agent today — even the frontier models — is **Leonard 
 **Read the full story:**
 - [Part 1: Leonard Shelby and the AI Memory Problem](https://medium.com/@dhillon.andrew/leonard-shelby-and-the-ai-memory-problem-what-building-a-multi-agent-ai-ctf-platform-taught-me-4f4c8fd6ab78) — what building a 12-agent CTF platform taught me about what's missing
 - [Part 2: Memories Are All We Are](https://medium.com/@dhillon.andrew/memories-are-all-we-are-i-made-what-i-think-the-road-to-agi-is-missing-b1821744dc59) — the architecture, the threat model, and why I think this is what the road to AGI is missing
+- [Part 3: I Built Memory Infrastructure for AI Agents and They Started Learning on Their Own](https://medium.com/@dhillon.andrew/i-built-memory-infrastructure-for-ai-agents-and-they-started-learning-on-their-own-81825f96f985?postPublishedType=repub) — I set out to build plumbing. I ended up discovering that my AI agents learn better from experience.
 
 **Links:** [GitHub](https://github.com/l33tdawg/sage) | [Architecture Paper (Zenodo)](https://doi.org/10.5281/zenodo.18856658) | [Empirical Results Paper](https://doi.org/10.5281/zenodo.18856774)
 
