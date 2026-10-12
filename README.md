@@ -68,6 +68,7 @@ Local models are the default; optional providers and the data that leaves the Ma
 - [Part 1: Leonard Shelby and the AI Memory Problem](https://medium.com/@dhillon.andrew/leonard-shelby-and-the-ai-memory-problem-what-building-a-multi-agent-ai-ctf-platform-taught-me-4f4c8fd6ab78): what building a 12-agent CTF platform taught me about what's missing.
 - [Part 2: Memories Are All We Are](https://medium.com/@dhillon.andrew/memories-are-all-we-are-i-made-what-i-think-the-road-to-agi-is-missing-b1821744dc59): the architecture, the threat model and the case for lasting memory.
 - [Part 3: I Built Memory Infrastructure for AI Agents and They Started Learning on Their Own](https://medium.com/@dhillon.andrew/i-built-memory-infrastructure-for-ai-agents-and-they-started-learning-on-their-own-81825f96f985): what happened after the plumbing started working.
+- [Part 4: I Gave Claude Governed Memory: Here's What Happened](https://medium.com/@dhillon.andrew/i-gave-claude-governed-memory-heres-what-changed-992cfa984926): the fourth and final article in the SAGE memory series.
 
 ## Other projects
 
