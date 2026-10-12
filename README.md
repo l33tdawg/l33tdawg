@@ -1,12 +1,21 @@
 # L33tdawg
 
-### Hacker, Maker, Builder & Breaker
+<a href="https://l33tdawg.github.io/"><img src="https://l33tdawg.github.io/assets/social-card.jpg" alt="L33tdawg: hacker, maker, builder and breaker. SAGE Foundation, SAGE, Mynah, Meshticulum and Lantern." width="1200"></a>
+
+<p align="center">
+  <a href="https://l33tdawg.github.io/"><strong>Project hub ↗</strong></a> ·
+  <a href="https://sage-foundation.net/">SAGE Foundation</a> ·
+  <a href="https://l33tdawg.github.io/sage/">SAGE</a> ·
+  <a href="https://sage-foundation.net/hardware/">Lantern</a> ·
+  <a href="https://l33tdawg.github.io/meshticulum/">Meshticulum</a> ·
+  <a href="https://github.com/l33tdawg/mynah">Mynah</a>
+</p>
 
 ## About
 
 I'm **Dhillon Andrew Kannabhiran**, also known as L33tdawg. Founder and CEO of **[Hack In The Box (HITB)](https://conference.hitb.org)**, creator of **[LevelUp CTF](https://levelupctf.com)** and founder of the **[SAGE Foundation](https://sage-foundation.net/)** initiative.
 
-When I'm not building stuff, I'm thinking up solutions to problems nobody asked me to solve or practicing live modular techno with [eurorack](https://en.wikipedia.org/wiki/Eurorack).
+When I'm not building stuff, I'm thinking up solutions to problems nobody asked me to solve or making live modular techno with [eurorack](https://en.wikipedia.org/wiki/Eurorack) as [DHANKA](https://linktr.ee/dhankasounds/).
 
 ## SAGE Foundation
 
@@ -16,7 +25,7 @@ A curious mind shouldn't need a better postcode. I'm building the SAGE Foundatio
 
 The Foundation is an initiative in formation. Its intended role is to steward the mission, publish signed releases and report progress openly. Personal knowledge belongs to the person who created it; local networks belong to the people who operate them.
 
-[SAGE Commons](https://sage-foundation.net/commons/) is the wider programme for sharing useful knowledge deliberately, with review and attribution. It's still being developed. SAGE, Meshticulum and Lantern are the memory, transport and device projects supporting that direction.
+[SAGE Commons](https://sage-foundation.net/commons/) is the wider programme for sharing useful knowledge deliberately, with review and attribution. It's still being developed. SAGE, Mynah, Meshticulum and Lantern support that direction through memory, personal agents, transport and devices.
 
 [The mission](https://sage-foundation.net/) · [About the Foundation](https://sage-foundation.net/foundation/) · [Get involved](https://sage-foundation.net/#involve)
 
@@ -30,6 +39,14 @@ It runs locally and connects to MCP clients, including Claude Code, Codex and Cu
 
 [Website & setup](https://l33tdawg.github.io/sage/) · [Source](https://github.com/l33tdawg/sage) · [Architecture paper](https://doi.org/10.5281/zenodo.18856658) · [Empirical results](https://doi.org/10.5281/zenodo.18856774)
 
+## SAGE Lantern
+
+A handheld AI companion being built for learning and everyday problem-solving beyond reliable internet. Local models do the thinking; a private SAGE keeps the owner's knowledge. Voice questions, a camera and a touchscreen bring that work into something you can carry.
+
+Lantern brings SAGE and Meshticulum together in the device. Working prototypes run local AI and voice; hardware, device integration and community networking remain in development.
+
+[Meet Lantern](https://sage-foundation.net/hardware/)
+
 ## Meshticulum
 
 An experimental transport and resource system for networks that mix **LoRa and IP**. The work covers recipient-encrypted, sender-authenticated messages and public resources carried as signed manifests and verified chunks. The aim is to keep verified progress through a change of path, and use a faster connection when one becomes available.
@@ -38,13 +55,13 @@ Meshticulum began in Lantern and is now a standalone project. It has its own pro
 
 [Project website](https://l33tdawg.github.io/meshticulum/) · [Source](https://github.com/l33tdawg/meshticulum) · [Architecture & documentation](https://github.com/l33tdawg/meshticulum/blob/main/docs/index.md)
 
-## SAGE Lantern
+## Mynah
 
-A handheld AI companion being built for learning and everyday problem-solving beyond reliable internet. Local models do the thinking; a private SAGE keeps the owner's knowledge. Voice questions, a camera and a touchscreen bring that work into something you can carry.
+A personal AI and agent manager for a Mac you own. Reach it through your Signal Note-to-Self thread with text, voice notes or a live call. Its memory lives in SAGE, and it can find your other agents and hand work to them.
 
-Lantern brings SAGE and Meshticulum together in the device. Working prototypes run local AI and voice; hardware, device integration and community networking remain in development.
+Local models are the default; optional providers and the data that leaves the Mac are explained in the app's Privacy screen.
 
-[Meet Lantern](https://sage-foundation.net/hardware/)
+[Project & source](https://github.com/l33tdawg/mynah) · [macOS releases](https://github.com/l33tdawg/mynah/releases/latest)
 
 ## Writing
 
@@ -54,8 +71,9 @@ Lantern brings SAGE and Meshticulum together in the device. Working prototypes r
 
 ## Other projects
 
+- **[LevelUp CTF](https://levelupctf.com/)**: a self-evolving, agentic AI Capture The Flag platform.
+- **[CFP Directory](https://cfp.directory/)**: a home for Calls for Papers and opportunities to share your research.
 - **[Aether](https://github.com/l33tdawg/aether)**: smart contract security analysis and proof-of-concept generation with AI.
-- **[CFP Directory](https://github.com/l33tdawg/cfp-directory-self-hosted)**: a self-hosted Call for Papers management platform.
 
 ## HITB / OOTB conference series
 
