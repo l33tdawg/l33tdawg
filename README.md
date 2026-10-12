@@ -1,49 +1,83 @@
 # L33tdawg
 
-### Hacker, Maker, Builder & Breaker
----
+<a href="https://l33tdawg.github.io/"><img src="https://l33tdawg.github.io/assets/social-card.jpg" alt="L33tdawg: hacker, maker, builder and breaker. SAGE Foundation, SAGE, Mynah, Meshticulum and Lantern." width="1200"></a>
+
+<p align="center">
+  <a href="https://l33tdawg.github.io/"><strong>Project hub ↗</strong></a> ·
+  <a href="https://sage-foundation.net/">SAGE Foundation</a> ·
+  <a href="https://l33tdawg.github.io/sage/">SAGE</a> ·
+  <a href="https://sage-foundation.net/hardware/">Lantern</a> ·
+  <a href="https://l33tdawg.github.io/meshticulum/">Meshticulum</a> ·
+  <a href="https://github.com/l33tdawg/mynah">Mynah</a>
+</p>
 
 ## About
 
-Creator of **[LevelUp CTF](https://levelupctf.com)** — a self-evolving, fully agentic AI Capture The Flag platform — and author of **[(S)AGE](https://github.com/l33tdawg/sage)** (Sovereign Agent Governed Experience), a new infrastructure layer for AI agents. Founder & CEO of **[Hack In The Box (HITB)](https://conference.hitb.org)** — the premier deep-knowledge security conference series running since 2003. When I'm not building stuff, I'm thinking up solutions to problems nobody asked me to solve or practicing live modular techno with **[eurorack](https://en.wikipedia.org/wiki/Eurorack)**.
+I'm **Dhillon Andrew Kannabhiran**, also known as L33tdawg. Founder and CEO of **[Hack In The Box (HITB)](https://conference.hitb.org)**, creator of **[LevelUp CTF](https://levelupctf.com)** and founder of the **[SAGE Foundation](https://sage-foundation.net/)** initiative.
 
----
+When I'm not building stuff, I'm thinking up solutions to problems nobody asked me to solve or making live modular techno with [eurorack](https://en.wikipedia.org/wiki/Eurorack) as [DHANKA](https://linktr.ee/dhankasounds/).
 
-## (S)AGE — Sovereign Agent Governed Experience
+## SAGE Foundation
 
-My current focus and what I think is the most important thing I've built. **(S)AGE** is a governed, verifiable, experience-weighted **institutional memory layer for multi-agent systems**. Infrastructure, not a library.
+**Intelligence. For all of us.**
 
-The problem: every AI agent today — even the frontier models — is **Leonard Shelby from Memento**. Brilliant within a session. Complete amnesia between sessions. We've been giving them better tattoo ink for years. (S)AGE cures the amnesia.
+A curious mind shouldn't need a better postcode. I'm building the SAGE Foundation to make useful AI available to people whose connectivity is unreliable and whose resources are limited. Local intelligence, tools people can build and repair, and networks communities can run themselves.
 
-**What it does:** Agents propose knowledge from experience → validators vote using reputation-weighted Proof of Experience → BFT consensus commits it as institutional truth → future agents query governed, verified knowledge. Memories decay when stale, get challenged when wrong, and accumulate across agents and sessions.
+The Foundation is an initiative in formation. Its intended role is to steward the mission, publish signed releases and report progress openly. Personal knowledge belongs to the person who created it; local networks belong to the people who operate them.
 
-**The stack:** CometBFT consensus (raw ABCI 2.0), Go state machine, PostgreSQL + pgvector, Protobuf txs, Python SDK, local embeddings via Ollama. Fully sovereign — zero cloud API calls. Two commands and you've got a 4-node consensus network running. 956 req/s submissions, 21.6ms P95 queries, 0% errors under load.
+[SAGE Commons](https://sage-foundation.net/commons/) is the wider programme for sharing useful knowledge deliberately, with review and attribution. It's still being developed. SAGE, Mynah, Meshticulum and Lantern support that direction through memory, personal agents, transport and devices.
 
-**Why it matters:** We spent decades building consensus for financial transactions. A bad transaction loses money. A bad institutional memory corrupts every future decision that relies on it. BFT consensus for knowledge isn't overkill — it's the minimum.
+[The mission](https://sage-foundation.net/) · [About the Foundation](https://sage-foundation.net/foundation/) · [Get involved](https://sage-foundation.net/#involve)
 
-4 research papers published. Open-source under Apache 2.0. Because we don't gatekeep stuff.
+## SAGE: Sovereign Agent Governed Experience
 
-**Read the full story:**
-- [Part 1: Leonard Shelby and the AI Memory Problem](https://medium.com/@dhillon.andrew/leonard-shelby-and-the-ai-memory-problem-what-building-a-multi-agent-ai-ctf-platform-taught-me-4f4c8fd6ab78) — what building a 12-agent CTF platform taught me about what's missing
-- [Part 2: Memories Are All We Are](https://medium.com/@dhillon.andrew/memories-are-all-we-are-i-made-what-i-think-the-road-to-agi-is-missing-b1821744dc59) — the architecture, the threat model, and why I think this is what the road to AGI is missing
-- [Part 3: I Built Memory Infrastructure for AI Agents and They Started Learning on Their Own](https://medium.com/@dhillon.andrew/i-built-memory-infrastructure-for-ai-agents-and-they-started-learning-on-their-own-81825f96f985?postPublishedType=repub) — I set out to build plumbing. I ended up discovering that my AI agents learn better from experience.
+Building LevelUp CTF made the memory problem hard to ignore. An agent without persistent memory can feel like Leonard Shelby from *Memento*: capable within a session, then starting over when the next one begins.
 
-**Links:** [GitHub](https://github.com/l33tdawg/sage) | [Architecture Paper (Zenodo)](https://doi.org/10.5281/zenodo.18856658) | [Empirical Results Paper](https://doi.org/10.5281/zenodo.18856774)
+SAGE gives AI agents a lasting record of decisions, failed approaches and useful lessons. Agent-signed memories pass through a validation lifecycle, with permissions controlling who can read and contribute. A personal node uses one validator; a multi-validator network requires a BFT quorum. You can inspect the record in CEREBRUM, the local dashboard.
 
----
+It runs locally and connects to MCP clients, including Claude Code, Codex and Cursor, with a Python SDK and signed REST API for developers. The code is open source under Apache 2.0.
 
-## Other Projects
+[Website & setup](https://l33tdawg.github.io/sage/) · [Source](https://github.com/l33tdawg/sage) · [Architecture paper](https://doi.org/10.5281/zenodo.18856658) · [Empirical results](https://doi.org/10.5281/zenodo.18856774)
 
-- **[Aether](https://github.com/l33tdawg/aether)** — AI-powered smart contract security analysis and PoC generation framework
-- **[CFP Directory](https://github.com/l33tdawg/cfp-directory-self-hosted)** — Self-hosted Call for Papers management platform
+## SAGE Lantern
 
----
+A handheld AI companion being built for learning and everyday problem-solving beyond reliable internet. Local models do the thinking; a private SAGE keeps the owner's knowledge. Voice questions, a camera and a touchscreen bring that work into something you can carry.
 
-## HITB / OOTB Conference Series
+Lantern brings SAGE and Meshticulum together in the device. Working prototypes run local AI and voice; hardware, device integration and community networking remain in development.
 
-- https://conference.hitb.org/
-- https://ootb.net/
+[Meet Lantern](https://sage-foundation.net/hardware/)
 
----
+## Meshticulum
+
+An experimental transport and resource system for networks that mix **LoRa and IP**. The work covers recipient-encrypted, sender-authenticated messages and public resources carried as signed manifests and verified chunks. The aim is to keep verified progress through a change of path, and use a faster connection when one becomes available.
+
+Meshticulum began in Lantern and is now a standalone project. It has its own protocol, inspired by the design strengths of MeshCore and Reticulum. The public source and measured results are available as a **project preview**; the alpha release is still ahead.
+
+[Project website](https://l33tdawg.github.io/meshticulum/) · [Source](https://github.com/l33tdawg/meshticulum) · [Architecture & documentation](https://github.com/l33tdawg/meshticulum/blob/main/docs/index.md)
+
+## Mynah
+
+A personal AI and agent manager for a Mac you own. Reach it through your Signal Note-to-Self thread with text, voice notes or a live call. Its memory lives in SAGE, and it can find your other agents and hand work to them.
+
+Local models are the default; optional providers and the data that leaves the Mac are explained in the app's Privacy screen.
+
+[Project & source](https://github.com/l33tdawg/mynah) · [macOS releases](https://github.com/l33tdawg/mynah/releases/latest)
+
+## Writing
+
+- [Part 1: Leonard Shelby and the AI Memory Problem](https://medium.com/@dhillon.andrew/leonard-shelby-and-the-ai-memory-problem-what-building-a-multi-agent-ai-ctf-platform-taught-me-4f4c8fd6ab78): what building a 12-agent CTF platform taught me about what's missing.
+- [Part 2: Memories Are All We Are](https://medium.com/@dhillon.andrew/memories-are-all-we-are-i-made-what-i-think-the-road-to-agi-is-missing-b1821744dc59): the architecture, the threat model and the case for lasting memory.
+- [Part 3: I Built Memory Infrastructure for AI Agents and They Started Learning on Their Own](https://medium.com/@dhillon.andrew/i-built-memory-infrastructure-for-ai-agents-and-they-started-learning-on-their-own-81825f96f985): what happened after the plumbing started working.
+
+## Other projects
+
+- **[LevelUp CTF](https://levelupctf.com/)**: a self-evolving, agentic AI Capture The Flag platform.
+- **[CFP Directory](https://cfp.directory/)**: a home for Calls for Papers and opportunities to share your research.
+- **[Aether](https://github.com/l33tdawg/aether)**: smart contract security analysis and proof-of-concept generation with AI.
+
+## HITB / OOTB conference series
+
+- [Hack In The Box](https://conference.hitb.org/)
+- [Out of the Box](https://ootb.net/)
 
 *"Attention is all you need to think. But memories are all you are."*
