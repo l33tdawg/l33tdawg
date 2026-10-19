@@ -7,6 +7,7 @@
   <a href="https://sage-foundation.net/">SAGE Foundation</a> ·
   <a href="https://l33tdawg.github.io/sage/">SAGE</a> ·
   <a href="https://sage-foundation.net/hardware/">Lantern</a> ·
+  <a href="https://github.com/l33tdawg/sage-lantern">Lantern source</a> ·
   <a href="https://l33tdawg.github.io/meshticulum/">Meshticulum</a> ·
   <a href="https://github.com/l33tdawg/mynah">Mynah</a>
 </p>
@@ -45,7 +46,9 @@ A handheld AI companion being built for learning and everyday problem-solving be
 
 Lantern brings SAGE and Meshticulum together in the device. Working prototypes run local AI and voice; hardware, device integration and community networking remain in development.
 
-[Meet Lantern](https://sage-foundation.net/hardware/)
+The device runtime, touchscreen apps, provisioning tools and offline maps are public in the [SAGE Lantern repository](https://github.com/l33tdawg/sage-lantern).
+
+[Meet Lantern](https://sage-foundation.net/hardware/) · [Source](https://github.com/l33tdawg/sage-lantern) · [Offline maps](https://github.com/l33tdawg/sage-lantern/tree/main/maps)
 
 ## Meshticulum
 
